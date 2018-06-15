@@ -88,3 +88,7 @@
   uid: 6c50dd13-1d6c-4dca-9740-22dee8697704
   parameters: []
   body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: a a notification about descaling should be displayed
+  uid: 52e970d7-223e-421e-b5ad-029ab76a3c4a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e

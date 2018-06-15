@@ -1,5 +1,7 @@
 package com.coffeemachine;
 
+import cucumber.api.DataTable;
+
 public class Actionwords {
 
     public void iStartTheCoffeeMachineUsingLanguageLang(String lang) {
@@ -95,6 +97,10 @@ public class Actionwords {
     }
 
     public void aNotificationAboutDescalingIsDisplayed() {
+
+    }
+
+    public void aANotificationAboutDescalingShouldBeDisplayed() {
 
     }
 }
